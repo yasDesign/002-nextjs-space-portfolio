@@ -92,7 +92,7 @@ export default function Home() {
               <div className="circle intro-circle-2"></div>
               <div className="mx-auto tm-border-top gallery-slider">
                 <figure className="effect-julia item">
-                    <Image src={galleryImg9} alt="Image" />
+                    <Image src={galleryImg1} alt="Image" />
                     <figcaption>
                         <div>
                             <p>Julia dances in the deep dark</p>
@@ -234,7 +234,7 @@ export default function Home() {
                     <div className="gmap-canvas">
                         <iframe width="100%" height="400" id="gmap-canvas"
                             src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed"
-                            frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"></iframe>
+                            frameBorder="0"  marginHeight="0" marginWidth="0"></iframe>
                     </div>
                 </div>
                 </div>
