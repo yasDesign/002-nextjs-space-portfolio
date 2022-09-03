@@ -8,6 +8,7 @@ export default function Document() {
             <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet" />
             <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
             <link rel="stylesheet" href="assets/css/slick.css" type="text/css" /> 
+            <link rel="stylesheet" href="assets/css/templatemo-style.css"/>
       </Head>
       <body>
         <Main />

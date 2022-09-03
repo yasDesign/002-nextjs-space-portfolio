@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import Script from 'next/script'
-import styles from '../styles/Home.module.css'
+
 import galleryImg1 from '../public/assets/img/gallery-img-01.jpg'
 import galleryImg2 from '../public/assets/img/gallery-img-02.jpg'
 import galleryImg3 from '../public/assets/img/gallery-img-03.jpg'
@@ -18,9 +17,7 @@ import bgImg2 from '../public/assets/img/home-img-2.jpg'
 export default function Home() {
   return (
     <>
-      <Head>
-        <link rel="stylesheet" href="assets/css/templatemo-style.css"/>
-      </Head>
+  
        <video autoPlay muted loop id="bg-video">
         <source src="assets/video/gfp-astro-timelapse.mp4" type="video/mp4" />
     </video>
