@@ -5,10 +5,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
-            <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet" />
-            {/* <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
-            <link rel="stylesheet" href="assets/css/slick.css" type="text/css" /> 
-            <link rel="stylesheet" href="assets/css/templatemo-style.css"/> */}
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet" />
       </Head>
       <body>
         <Main />
